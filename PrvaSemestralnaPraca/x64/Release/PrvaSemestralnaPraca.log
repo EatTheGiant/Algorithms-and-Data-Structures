@@ -1,0 +1,66 @@
+﻿  main.cpp
+  spustac.cpp
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\spustac.cpp(197,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_suv_pam.h(188,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_suv_pam.h(185): message : while compiling class template member function 'void structures::MatrixSuvPam<int>::nastav(const size_t,const size_t,const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\spustac.cpp(139): message : see reference to class template instantiation 'structures::MatrixSuvPam<int>' being compiled
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_suv_pam.h(197,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_suv_pam.h(194): message : while compiling class template member function 'T &structures::MatrixSuvPam<T>::spristupni(const size_t,const size_t)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(206,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(203): message : while compiling class template member function 'void structures::MatrixNesuvPam<int>::nastav(const size_t,const size_t,const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\spustac.cpp(145): message : see reference to class template instantiation 'structures::MatrixNesuvPam<int>' being compiled
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(207,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(215,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(212): message : while compiling class template member function 'T &structures::MatrixNesuvPam<T>::spristupni(const size_t,const size_t)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\matrix\matrix_nesuv_pam.h(216,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\priority_queue\heap.h(121,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\priority_queue\heap.h(120): message : while compiling class template member function 'T structures::Heap<T>::pop(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\spustac.cpp(261): message : see reference to class template instantiation 'structures::Heap<int>' being compiled
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\priority_queue\priority_queue_two_lists.h(168,23): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\structures\priority_queue\priority_queue_two_lists.h(162): message : while compiling class template member function 'T structures::PriorityQueueTwoLists<T>::pop(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\spustac.cpp(268): message : see reference to class template instantiation 'structures::PriorityQueueTwoLists<int>' being compiled
+  ds_routines.cpp
+  structure.cpp
+  vector.cpp
+  testovanieFrontu.cpp
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieFrontu.cpp(61,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieFrontu.cpp(73,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  testovanieMatice.cpp
+  testovanieZoznamu.cpp
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(99,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(138,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(166,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(195,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieFrontu.cpp(111): warning C4172: returning address of local variable or temporary: hodnoty
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(283): warning C4172: returning address of local variable or temporary: hodnoty
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieZoznamu.cpp(270): warning C4172: returning address of local variable or temporary: hodnoty
+C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\PrvaSemestralnaPraca\testovanieFrontu.cpp(125): warning C4172: returning address of local variable or temporary: hodnoty
+  All 519 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PrvaSemestralnaPraca.vcxproj -> C:\Users\Basic\Downloads\semestralka\PrvaSemestralnaPracaSol\New folder\PrvaSemestralnaPracaSol\GrexaPatrikAUS1\x64\Release\PrvaSemestralnaPraca.exe
